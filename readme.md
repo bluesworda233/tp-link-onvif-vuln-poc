@@ -309,7 +309,7 @@ This report is published following responsible disclosure principles to enable e
 
 ## XI. Timeline and Disclosure
 
-- **Discovery Date:** July 1, 2026
+- **Discovery Date:** June 1, 2026
 - **Initial Research:** Analysis of firmware Build 250119
 - **Vendor Notification:** [Notification timeline in progress]
 - **Vulnerability Confirmation:** Multiple firmware versions confirmed vulnerable
