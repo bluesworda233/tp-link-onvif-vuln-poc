@@ -322,7 +322,7 @@ This report is published following responsible disclosure principles to enable e
 ## XII. Researcher Information
 
 **Research Organization:** Yangming Cybersecurity Studio  
-Wuhan Vocational and Technical University
+Wuhan Technical University
 
 **Researcher:** Xin Xiang Fu
 
